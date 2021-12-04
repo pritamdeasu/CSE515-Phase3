@@ -1,6 +1,6 @@
 # CSE515_Phase3
 
-Currently assigned tasks (try to get done ASAP):
+Currently assigned tasks:
  - SVM (Tasks 1-3, 7): Pritam
  - Decision-Tree (Tasks 1-3, 6): Sairaj
  - PPR (Tasks 1-3): Aaron
